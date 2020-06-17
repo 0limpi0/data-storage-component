@@ -28,7 +28,7 @@ body {
 }
 
 .container {
-  padding: 10rem 1.5rem 4rem;
+  padding: 7rem 1.5rem 4rem;
 }
 
 .top__container,
@@ -75,6 +75,7 @@ body {
   font-weight: 700;
   position: absolute;
   left: 5rem;
+  text-align: center;
 }
 
 .white-box span {
